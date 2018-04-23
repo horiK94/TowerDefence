@@ -7,6 +7,6 @@ public class UIController : MonoBehaviour {
 	}
 
 	public void CreateToSetTower(){
-		Debug.Log("foo");
+		
 	}
 }
